@@ -1,0 +1,14 @@
+D:\CODE\EComnet\bin\Debug\net9.0\EComnet.exe
+D:\CODE\EComnet\bin\Debug\net9.0\EComnet.deps.json
+D:\CODE\EComnet\bin\Debug\net9.0\EComnet.runtimeconfig.json
+D:\CODE\EComnet\bin\Debug\net9.0\EComnet.dll
+D:\CODE\EComnet\bin\Debug\net9.0\EComnet.pdb
+D:\CODE\EComnet\obj\Debug\net9.0\EComnet.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\EComnet\obj\Debug\net9.0\EComnet.AssemblyInfoInputs.cache
+D:\CODE\EComnet\obj\Debug\net9.0\EComnet.AssemblyInfo.cs
+D:\CODE\EComnet\obj\Debug\net9.0\EComnet.csproj.CoreCompileInputs.cache
+D:\CODE\EComnet\obj\Debug\net9.0\EComnet.dll
+D:\CODE\EComnet\obj\Debug\net9.0\refint\EComnet.dll
+D:\CODE\EComnet\obj\Debug\net9.0\EComnet.pdb
+D:\CODE\EComnet\obj\Debug\net9.0\EComnet.genruntimeconfig.cache
+D:\CODE\EComnet\obj\Debug\net9.0\ref\EComnet.dll
