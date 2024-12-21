@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EComnet")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04c38283bf7bcaec644872c5652e963932af224d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+df41140df5c4be5980e64253941c158a037ef50d")]
 [assembly: System.Reflection.AssemblyProductAttribute("EComnet")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EComnet")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
